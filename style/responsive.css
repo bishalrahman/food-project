@@ -1,0 +1,34 @@
+@media screen and (max-width:930px) {
+    .navbar-part2 ul li{
+        display: none;
+        
+    }
+    .mobile-menu{
+        display: inline-block;
+    }
+}
+@media screen and (max-width:766px){
+    .home-section .part-1{
+        padding: 100px 0% 0% 0%;
+    }
+
+}
+@media screen and (max-width:768px){
+    .contact-section .part-2{
+        padding: 50px 35px;
+      
+    }
+    .contact-section .part-2 .form-1{
+        float: none;
+    
+    }
+    .contact-section .part-2 .form-2{
+  
+        float: none;
+    }
+}
+@media screen and (max-width:640px){
+    .footer-section{
+        text-align: center;
+    }
+}
